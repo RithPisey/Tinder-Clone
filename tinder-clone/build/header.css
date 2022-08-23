@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+}
+.header {
+	display: flex;
+	justify-content: space-around;
+	margin: 3vh;
+}
+.header-icon {
+	width: 70px;
+	object-fit: cover;
+}
